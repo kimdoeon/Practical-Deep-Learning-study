@@ -20,7 +20,7 @@
 * __Train model before Data Cleaning !__
     *  by training, we can plot top losses
         *  tell us places where the loss is the highest
-        bad loss == being wrond and confident or being right and unconfident
+        bad loss == being wrong and confident or being right and unconfident
 
     * fast.ai imageClassifierCleaner
     ![2_1](./img/2_1.png)
