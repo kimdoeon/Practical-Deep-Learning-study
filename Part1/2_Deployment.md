@@ -1,13 +1,13 @@
-## 2. Deployment
+# 2. Deployment
 
-### Keyword
+## Keyword
 > ___data cleaning with fast.ai___
 
 > ___hugging face___
 
 > ___Gradio___
 
-### About Lecture
+## About Lecture
 
 * __Jupyter notebook TIPS__  :  ___jupyter_contirb_extension___
     * navigate menu -> Searchable like a table of contents    
@@ -54,7 +54,7 @@
     ```
     ![2_2](./img/2_2.png)
 
-### Questions
+## Questions
 * what is ddg ?
 * how to automate data cleaning ?
 ---
