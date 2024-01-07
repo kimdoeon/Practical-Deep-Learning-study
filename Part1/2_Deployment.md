@@ -27,7 +27,7 @@
         * clean up the ones tha are wrongly labeld in our dataset
         * orderd by loss == ordered by confidence
         * we can modify label using gui tool
-        * modify train/validation sets are available  
+        * modifying train/validation sets are available  
 
     ___=> build model before data cleaning so that we can filter strange data___ 
     ___=> we can decide how to collect dataset next time___  
