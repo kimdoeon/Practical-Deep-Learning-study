@@ -50,7 +50,7 @@
     ```python
     import gradio as gr
 
-    def greet(name) : return f"Hello {name}"
+    def classify_img: ~~
 
     gr.Interface(fn = classify_img , input = "image", output="label", examples=examples).launch()
     ```
