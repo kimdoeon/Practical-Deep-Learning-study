@@ -53,6 +53,9 @@
     gr.Interface(fn = classify_img , input = "image", output="label", examples=examples).launch()
     ```
     ![2_2](./img/2_2.png)
+
 ### Questions
 * what is ddg ?
 * how to automate data cleaning ?
+---
+[code](https://www.kaggle.com/code/jhoward/saving-a-basic-fastai-model/notebook)
