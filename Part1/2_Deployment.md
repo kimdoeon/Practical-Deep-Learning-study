@@ -30,7 +30,9 @@
         * modifying train/validation sets are available  
 
     ___=> build model before data cleaning so that we can filter strange data___ 
+    
     ___=> we can decide how to collect dataset next time___  
+    
     ___=> we can find how to automate data cleaning___  
     
 <br/>
